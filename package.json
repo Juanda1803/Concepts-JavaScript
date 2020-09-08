@@ -1,0 +1,25 @@
+{
+  "name": "closure",
+  "version": "0.1.0",
+  "description": "Develop with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Juan Gonzalez",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Juanda1803/Concepts-JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juanda1803/Concepts-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Juanda1803/Concepts-JavaScript#readme"
+}
