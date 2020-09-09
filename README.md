@@ -4,6 +4,6 @@ Develop with JavaScript
 
 ### Closures
 
-![img](./src/cloures.png)
+![img](./src/closures.png)
 
-![img](./src/cloures-var-private-es.png)
+![img](./src/closures-var-private-es.png)
